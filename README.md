@@ -12,9 +12,9 @@ If you have any questions feel free to write to the group chat or contact Tuomas
 
 I hope you enjoy this coding challange with us. Happy coding!
 
-|Problem                    | When to do it                  | Scored | Submit       | Input file
----                         | ---                            | ---    | ---          | ---
-|Task #1 - Fuel problem     | during the workshop            | No     | No/optional  | input1.txt
-|Task #2 - IntCode          | during the workshop            | No     | No/optional  | input2.txt
-|Taks #3 - Agreement Prices | at home (pick this or Task #4) | Yes    | Yes to Matti | -
-|Taks #4 - Path finding     | at home (pick this or Task #3) | Yes    | Yes to Matti | -
+|Problem                                                | When to do it                  | Scored | Submit       | Input file
+---                                                     | ---                            | ---    | ---          | ---
+|[Task #1](workshop_task1.pdf) - Fuel problem           | during the workshop            | No     | No/optional  | [input1](workshopInput1.txt)
+|[Task #2](workshop_task2.pdf) - IntCode                | during the workshop            | No     | No/optional  | [input2](workshopInput2.txt)
+|[Taks #3](Programming_task3_en.pdf) - Agreement Prices | at home (pick this or Task #4) | Yes    | Yes to Matti | -
+|[Taks #4](Programming_task4_en.pdf) - Path finding     | at home (pick this or Task #3) | Yes    | Yes to Matti | -
