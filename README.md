@@ -1,6 +1,6 @@
 # 2021-summer-intern-coding-challange
 
-Welcome to the coding challange of our Summer Intern Recruitment event.
+Welcome to the coding challange of our AktiaSummer Recruitment event.
 
 In this 1,5 hours workshop we invite you to write some code and have some fun :-). The workshop starts at 4:30 pm and ends at 6 pm. Some of the speed dating interviews are scheduled during this time, so feel free to leave and come back as you wish.
 
