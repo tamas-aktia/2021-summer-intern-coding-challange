@@ -8,6 +8,8 @@ You have two smaller and two, somewhat larger tasks. We suggest you to try to so
 
 We invite you to pick one of the larger tasks, solve it at home and **submit your solution to Matti in email (Matti.K.Lindroth at aktia.fi)**. These solutions will be scored and can give you extra points when hiring decision is made.
 
+**Deadline** Please submit your solution on or before February 1 (next Monday). Thanks.
+
 If you have any questions feel free to write to the group chat or contact Tuomas (Finnish or English) or Tamas (only in English) directly. We are here to help you!
 
 I hope you enjoy this coding challange with us. Happy coding!
